@@ -1,7 +1,6 @@
 # Architectural-Decision-Record
 this repository is for the Architectural Decision making Record for Mobile Application Phase 2
 
-
 Architectural Decision Record 
 
 
@@ -12,8 +11,7 @@ Architectural Decisions:
 Decision: native mobile app for both ios and android platform.
 
 Rationale:
-After careful deliberation, we have opted for native applications. We firmly believe that native apps offer unparalleled user experiences and performance excellent across all platforms. Furthermore, given the company's directive to ensure broad accessibility, native apps excel in efficiently reaching both iOS and Android users. Making our decision aligns seamlessly with these objectives.
-
+After a long and careful deliberation, our team has come to a conscious decision to pursue native applications for several compelling reasons. We firmly stand behind the belief that native apps provide unparalleled user experiences and performance excellence across all platforms. With the ability to leverage platform-specific features and optimizations, native apps offer a level of responsiveness and fluidity that is unmatched by other approaches [4]. Furthermore, considering the company's directive to ensure broad accessibility, native apps emerge as the optimal choice for efficiently reaching both iOS and Android users. By crafting native applications, we can seamlessly align our development efforts with the company's objectives, ensuring that our app delivers a consistent and high-quality experience to all users, regardless of their chosen platform.
 
 
 UI Framework: 
